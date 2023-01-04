@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HttpClientTesting
-build_property.ProjectDir = /Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/
+build_property.ProjectDir = /Users/sandeep.pal/Documents/ServiceStudio/HttpClientTesting/HttpClientTesting/

@@ -21,7 +21,7 @@ class Program
         // read file
         var filePath = configuration["filePath"];
         var relativeUploadURL = configuration["aws:relativeUploadURL"];
-        var useSleepTime = bool.Parse(configuration["useSleepTime"]);
+        var waitAfterEachRequest = bool.Parse(configuration["waitAfterEachRequest"]);
         var usenet6 = bool.Parse(configuration["usenet6"]);
         var clientToUse = configuration["testClient"];
         var baseURL = configuration["aws:baseURL"];
@@ -30,11 +30,11 @@ class Program
 
         if (usenet6)
         {
-            await UploadFile(configuration, filePath, relativeUploadURL, useSleepTime, clientToUse, baseURL, sendDummyRequest);
+            await UploadFile(configuration, filePath, relativeUploadURL, waitAfterEachRequest, clientToUse, baseURL, sendDummyRequest);
         }
         else
         {
-            await uploadService.Upload(filePath, relativeUploadURL, useSleepTime, baseURL, sendDummyRequest);
+            await uploadService.Upload(filePath, relativeUploadURL, waitAfterEachRequest, baseURL, sendDummyRequest);
         }
     }
 
