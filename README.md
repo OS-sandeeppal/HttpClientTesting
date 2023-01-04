@@ -25,7 +25,7 @@ Console app to measure the time taken to upload file to S3 and Azure blob storag
       
        B. relativeUploadURL - is the S3 bucket URL
       
-       C. sendDummyRequest - specify whether to send a dummy request to the S3 domain before sending the actual file upload request. If true, sends a GET request before the file upload request.
+       C. sendDummyRequest (optional) - specify whether to send a dummy request to the S3 domain before sending the actual file upload request. If true, sends a GET request before the file upload request.
    
    VI. **azure** - has Azure specific configuration.
    
@@ -33,7 +33,7 @@ Console app to measure the time taken to upload file to S3 and Azure blob storag
        
        B. containerName - Azure blob container name in which file will be uploaded.
        
-       C. closeConnection - whether to close connection between client and Azure after each request. If true, closes connection else connection remains open till Azure closes the connection.
+       C. closeConnection (optional) - whether to close connection between client and Azure after each request. If true, closes connection else connection remains open till Azure closes the connection.
 
 3. After the appsettings changes are saved, run the below command -
 
