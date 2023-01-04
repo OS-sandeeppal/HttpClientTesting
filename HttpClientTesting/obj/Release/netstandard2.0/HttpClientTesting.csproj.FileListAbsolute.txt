@@ -1,0 +1,14 @@
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/obj/Release/netstandard2.0/HttpClientTesting.csproj.AssemblyReference.cache
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/obj/Release/netstandard2.0/HttpClientTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/obj/Release/netstandard2.0/HttpClientTesting.AssemblyInfoInputs.cache
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/obj/Release/netstandard2.0/HttpClientTesting.AssemblyInfo.cs
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/obj/Release/netstandard2.0/HttpClientTesting.csproj.CoreCompileInputs.cache
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/netstandard2.0/appsettings.json
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/netstandard2.0/HttpClientTesting.deps.json
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/netstandard2.0/HttpClientTesting.dll
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/netstandard2.0/HttpClientTesting.pdb
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/obj/Release/netstandard2.0/HttpClientTesting.dll
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/obj/Release/netstandard2.0/HttpClientTesting.pdb
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/netstandard2.0/HttpClientTesting.runtimeconfig.json
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/netstandard2.0/HttpClientTesting.runtimeconfig.dev.json
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/obj/Release/netstandard2.0/HttpClientTesting.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = HttpClientTesting
+build_property.ProjectDir = /Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/

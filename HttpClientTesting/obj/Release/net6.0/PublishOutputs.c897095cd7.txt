@@ -1,0 +1,14 @@
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/HttpClientTesting
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/appsettings.json
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/HttpClientTesting.dll
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/HttpClientTesting.deps.json
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/HttpClientTesting.runtimeconfig.json
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/HttpClientTesting.pdb
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.dll
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.Json.dll
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/sandeep.pal/RiderProjects/HttpClientTesting/HttpClientTesting/bin/Release/net6.0/publish/Microsoft.Extensions.Primitives.dll
